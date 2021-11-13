@@ -13,7 +13,23 @@ Jet 是一款纯使用Java语言编写的流计算框架，支持时间窗口，
 解压后覆盖掉仓库原有的包即可
 
 ## 赞助与联系
-如果你想使用他，或者你有什么想法，欢迎找我讨论，当然如果你觉得好用话，也请赞助一下(๑•́ ₃•๑)呢，下面是我的联系方式和转账码
+如果你想使用他，或者你有什么想法，欢迎找我讨论，当然如果你觉得好用话，也请赞助一下(๑•́ ₃•๑)呢
+
+微信联系方式
+
+<img src="https://github.com/clncon/jetPro/blob/master/img/wexin.png" width="200" alt="微信联系方式" />
+
+微信收款码
+
+<img src="https://github.com/clncon/jetPro/blob/master/img/wxpay.png" width="200" alt="微信收款码" />
+
+Line联系方式
+
+<img src="https://github.com/clncon/jetPro/blob/master/img/line.png" width="200" alt="Line联系方式" />
+
+支付宝收款码
+
+<img src="https://github.com/clncon/jetPro/blob/master/img/alipay.png" width="200" alt="支付宝收款码" />
 
 ## 启动项目
 本项目使用Springboot构建的后端，vue构建的前端，使用时需要将两个服务都起来，另外该项目在window下运行可能，存在问题，建议使用linux/unix来运行这个项目
